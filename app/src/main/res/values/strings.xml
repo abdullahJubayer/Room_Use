@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartReminder</string>
+    <string name="today_task">Today task</string>
+    <string name="progress_txt">Progress</string>
+    <string name="completed_task_txt">Completed Task</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
